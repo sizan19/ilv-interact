@@ -5,7 +5,9 @@ A **NoPixel 5 (NoPixel V) inspired** interaction system for FiveM.
 Walk up to something, look at it, press **E**. No third-eye menus, no clutter – just the same minimal in-world prompts you've seen on NoPixel V.
 
 **Author:** Iloveyou.scripts
+
 **Discord:** https://discord.gg/SYTCVXqTcs
+
 **Tebex:** https://iloveyou.tebex.io/
 
 ---
